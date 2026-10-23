@@ -1,5 +1,5 @@
 # Practica-6-Ejecutar-servidor-web-Nginx-con-Docker
-# Práctica: Servidor Web Nginx con Docker Compose
+
 
 ## Descripción
 
